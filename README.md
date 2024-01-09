@@ -1,5 +1,11 @@
 # Ai_recommender
 EXploreAI:EXploreAI is a Machine Learning Python Project. it will recommend similar AI tools based on their search after recommendation user can visit their Desire Website.
+
+Frontend Technology:HTML,CSS,BootStrap
+Backend Language:Python
+Backend Technology:FLASK
+Code Editor:VS Code
+
 Future Enhancement:  
 1) Category: Category will be added soon so that People can search AI Website by it's Category like Image Generator,Story Telling and so on.
 
